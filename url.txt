@@ -1,1 +1,1 @@
-https://municipality-retention-totals-explanation.trycloudflare.com
+https://api.trycloudflare.com
