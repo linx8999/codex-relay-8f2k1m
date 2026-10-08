@@ -1,1 +1,1 @@
-https://ppc-carter-reported-greensboro.trycloudflare.com
+https://api.trycloudflare.com
