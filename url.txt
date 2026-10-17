@@ -1,1 +1,1 @@
-https://particular-lately-architectural-hello.trycloudflare.com
+https://api.trycloudflare.com
