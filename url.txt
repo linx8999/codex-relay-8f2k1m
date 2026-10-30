@@ -1,1 +1,1 @@
-https://maps-personnel-clocks-boulevard.trycloudflare.com
+https://api.trycloudflare.com
