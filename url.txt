@@ -1,1 +1,1 @@
-https://worldwide-parents-campaigns-qui.trycloudflare.com
+https://api.trycloudflare.com
